@@ -27,5 +27,7 @@ The simple linear regression has been used to train and test the data.
 If a student studies for 9.25 hrs/ day, predicted score will be 92.38611528261494.
 
 Mean Squared Error: 18.943211722315272 
+
 Root Mean Squared Error: 4.352380006653288 
+
 Mean Absolute Error: 3.9207511902099244
