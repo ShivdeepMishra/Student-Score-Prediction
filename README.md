@@ -31,3 +31,7 @@ Mean Squared Error: 18.943211722315272
 Root Mean Squared Error: 4.352380006653288 
 
 Mean Absolute Error: 3.9207511902099244
+
+### Credits
+The Spark Foundation
+Xaltius Pte. Ltd.
