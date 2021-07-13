@@ -7,7 +7,7 @@ Shivdeep Mishra
 ### Date
 02-07-2021
 
-### Language
+### Programming Language
 Python
 
 ### Task File
